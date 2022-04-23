@@ -18,7 +18,7 @@ Gem::Specification.new do |spec|
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/technominal/gldn.git"
-  spec.metadata["changelog_uri"] = "https://github.com/technominal/gldn.git/"
+  spec.metadata["changelog_uri"] = "https://github.com/technominal/gldn.git"
 
   spec.add_dependency "thor", "~> 1.0"
 
