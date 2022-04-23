@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 require_relative "gldn/version"
-require "gldn"
 require "thor"
 
 module Gldn
